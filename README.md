@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/readme/project-cover.svg" width="100%" alt="PASSIVE EMERGENCY AI project cover"/>
+</p>
+
 
 # Passive Emergency Inference System (Concept)
 
